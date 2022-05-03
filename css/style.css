@@ -1,0 +1,15 @@
+:root {
+  font-family: iosevka;
+  box-sizing: border-box;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 98vh;
+}
+
+.underline {
+  text-decoration: underline;
+}
